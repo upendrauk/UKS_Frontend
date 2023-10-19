@@ -1,0 +1,31 @@
+.app {
+  width: 100%;
+}
+
+/* styling of pages */
+.home {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+.priority {
+  display: flex;
+  justify-content: space-between;
+}
+
+.status {
+  display: flex;
+  justify-content: space-between;
+  /* margin-left: 1.5rem; */
+}
+
+.user {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+
+
+
